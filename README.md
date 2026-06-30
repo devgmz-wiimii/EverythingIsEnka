@@ -17,5 +17,7 @@ And that's it! Your Tomodachi Collection has been modded with my mod!!
 
 CREDITS:
 Me, for making the mod
+
 morelikejonarbuckle, for making the english patch (https://github.com/morelikejonarbuckle/Yet-Another-Tomodachi-Collection-Translation/releases),
+
 And Nintendo for making the game.
