@@ -1,5 +1,5 @@
 # EverythingIsEnka
-Have you ever wanted for the music on your Tomodachi Collection game to sound more better (or worse)? Here you go! NOTE: Includes morelikejonarbuckle's A.I-Generated english patch. If they say they don't want it on this mod, so be it (BUT, I'm lazy...).
+Have you ever wanted for the music on your Tomodachi Collection game to sound more better (or worse)? Here you go! <s>NOTE: Includes morelikejonarbuckle's A.I-Generated english patch. If they say they don't want it on this mod, so be it (BUT, I'm lazy...).</s> I removed it!
 
 This mod replaces the sound banks of most SSEQ files with the Enka song sound bank.
 SIMPLE: It makes the music sound like Enka instruments.
@@ -9,9 +9,9 @@ Here is how to install it:
 NOTE: If you are in an area where you can buy the game, buy it, and then extract the ROM.
 
 2: Download the ROM result, and load it in your DS* or DS Emulator!
-*I don't have a DS. Testing would be appreciated.
+<s>*I don't have a DS. Testing would be appreciated.</s> I tested it, it works fine!
 
-3: Accept the small issues (and maybe help fix them). Some SFX might not play, and there might be some lag.
+3: Accept the small issues (and maybe help fix them). Some SFX might not play<s>, and there might be some lag</s>.
 
 And that's it! Your Tomodachi Collection has been modded with my mod!!
 
